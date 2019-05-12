@@ -29,9 +29,13 @@ Team #15
 
 1. 背景三張圖經過 align 之後進行 stitching。
     ![](https://i.imgur.com/f3gclw0.jpg)
+    
+    
 2. 手動將前景「杯子」取出，並製作其 mask。
     ![](https://i.imgur.com/YJTpxNy.png)
     ![](https://i.imgur.com/i35HOOA.png)
+    
+    
 3. 透過 mask 的方式將前景放置於背景上，並讓前景和後景以不同速度移動。
     ![image](https://github.com/JSharpClone/cvfx_hw5/blob/master/small.gif)
     
