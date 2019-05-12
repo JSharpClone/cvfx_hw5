@@ -33,6 +33,7 @@ Team #15
     ![](https://i.imgur.com/YJTpxNy.png)
     ![](https://i.imgur.com/i35HOOA.png)
 3. 透過 mask 的方式將前景放置於背景上，並讓前景和後景以不同速度移動。
+    ![image]https://github.com/JSharpClone/cvfx_hw5/blob/master/small.gif
     
     
 
